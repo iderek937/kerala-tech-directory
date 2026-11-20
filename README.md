@@ -40,4 +40,9 @@ This is a community-maintained directory and is not an official directory of any
 
 ## License
 
-This project is open source. See the LICENSE file for details.
+- Source code is licensed under the [MIT License](LICENSE).
+- Company data in the `companies/` directory is dedicated to the public domain under [CC0 1.0 Universal](DATA_LICENSE), to the extent permitted by law.
+
+Company names, website URLs, and factual information are collected from publicly available sources. This project is community-maintained and is not affiliated with or endorsed by the listed companies.
+
+Attribution to Kerala Tech Directory is appreciated but not required for reuse of CC0 data.
