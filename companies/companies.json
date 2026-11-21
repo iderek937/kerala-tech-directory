@@ -1,1095 +1,1932 @@
 [
-  {
-    "name": "Acodez IT Solutions",
-    "website": "https://acodez.in/",
-    "headquarters": {
-      "city": "Kozhikode",
-      "state": "Kerala",
-      "country": "India"
-    },
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "headquarters",
-        "tech_park": "UL CyberPark",
-        "source": "https://www.linkedin.com/company/acodez-it-solutions/about/"
-      },
-      {
-        "city": "WestHill",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "source": "https://acodez.in/"
-      },
-      {
-        "city": "Kochi",
-        "district": "Ernakulam",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "source": "https://acodez.in/"
-      }
-    ],
-    "category": [
-      "IT Services"
-    ],
-    "careers": "https://acodez.in/careers/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/acodez-it-solutions/",
-      "x": "https://x.com/acodez",
-      "dribbble": "https://dribbble.com/acodez",
-      "behance": "https://www.behance.net/acodez",
-      "instagram": "https://www.instagram.com/acodezsolutions/",
-      "facebook": "https://www.facebook.com/Acodez"
-    }
-  },
-  {
-    "name": "Actionfi Technologies",
-    "website": "https://actionfi.com/",
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "UL CyberPark",
-        "source": "https://actionfi.com/"
-      },
-      {
-        "city": "Kochi",
-        "district": "Ernakulam",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "source": "https://actionfi.com/"
-      }
-    ],
-    "category": [
-      "IT Services"
-    ],
-    "careers": "https://actionfi.com/career/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/actionfi",
-      "x": "https://x.com/actionfi_",
-      "facebook": "https://www.facebook.com/actionfi2015",
-      "youtube": "https://www.youtube.com/@actionfi"
-    }
-  },
-  {
-    "name": "Aerovative Technologies",
-    "website": "https://www.aerovative.com/",
-    "headquarters": {
-      "city": "Kozhikode",
-      "state": "Kerala",
-      "country": "India"
-    },
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "headquarters",
-        "tech_park": "UL CyberPark",
-        "source": "https://www.aerovative.com/contact/"
-      }
-    ],
-    "category": [
-      "IT Services",
-      "Aviation"
-    ],
-    "careers": "https://www.aerovative.com/careers/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/aerovative",
-      "instagram": "https://www.instagram.com/aerovative_technologies",
-      "facebook": "https://www.facebook.com/aerovative"
-    }
-  },
-  {
-    "name": "AppSure Software Solutions Pvt Ltd",
-    "website": "https://www.appsure.in/",
-    "headquarters": {
-      "city": "Kozhikode",
-      "state": "Kerala",
-      "country": "India"
-    },
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "headquarters",
-        "tech_park": "UL CyberPark",
-        "source": "https://www.linkedin.com/company/appsure-software-solutions/about/"
-      }
-    ],
-    "category": [
-      "IT Services"
-    ],
-    "careers": "https://www.appsure.in/Home/Career",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/appsure-software-solutions/"
-    }
-  },
-  {
-    "name": "Asterbyte Software Systems Pvt Ltd",
-    "website": "https://asterbyte.com/",
-    "headquarters": {
-      "city": "Noida",
-      "state": "Uttar Pradesh",
-      "country": "India"
-    },
-    "locations": [
-      {
-        "city": "Thalassery",
-        "district": "Kannur",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "source": "https://asterbyte.com/contact/"
-      },
-      {
-        "city": "Kochi",
-        "district": "Ernakulam",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "source": "https://asterbyte.com/contact/"
-      }
-    ],
-    "category": [
-      "IT Services"
-    ],
-    "careers": "https://asterbyte.com/careers/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/asterbyte-software-systems-private-limited/",
-      "x": "https://x.com/AsterbyteS",
-      "instagram": "https://www.instagram.com/asterbytesoftwaresystems/",
-      "facebook": "https://www.facebook.com/asterbytesoftwaresystems",
-      "youtube": "https://www.youtube.com/@asterbyte"
-    }
-  },
-  {
-    "name": "Bititude Technologies",
-    "website": "https://bititude.com/",
-    "headquarters": {
-      "city": "Kozhikode",
-      "state": "Kerala",
-      "country": "India"
-    },
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "headquarters",
-        "tech_park": "UL CyberPark",
-        "source": "https://bititude.com/"
-      }
-    ],
-    "category": [
-      "IT Services"
-    ],
-    "careers": "https://hollow-astrodon-9b4.notion.site/Careers-at-Bititude-4ee44cd34a444703bd5a62df7ef8cecb",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/bititude-technologies/",
-      "github": "https://github.com/bititude",
-      "x": "https://x.com/bititudetech",
-      "instagram": "https://www.instagram.com/bititude",
-      "facebook": "https://www.facebook.com/bititude"
-    }
-  },
-  {
-    "name": "Blackhawk Network",
-    "website": "https://www.bhnrewards.com/",
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "UL CyberPark",
-        "source": "https://www.linkedin.com/company/blackhawk-network/"
-      }
-    ],
-    "category": [
-      "FinTech"
-    ],
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/blackhawk-network/",
-      "x": "https://x.com/BHNrewards"
-    }
-  },
-  {
-    "name": "BMS Estimating  Private Limited",
-    "website": "https://bmsestimating.com/",
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "UL CyberPark",
-        "source": "https://www.linkedin.com/company/bms-estimating-private-limited/"
-      }
-    ],
-    "category": [
-      "Building and Construction"
-    ],
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/bms-estimating-private-limited/"
-    }
-  },
-  {
-    "name": "Buchprufer Consultants LLP",
-    "website": "https://buchprufer.com/",
-    "headquarters": {
-      "city": "Kozhikode",
-      "state": "Kerala",
-      "country": "India"
-    },
-    "locations": [
-      {
-        "city": "Kochi",
-        "district": "Ernakulam",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "source": "https://buchprufer.com/contact-us/"
-      },
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "headquarters",
-        "tech_park": "UL CyberPark",
-        "source": "https://buchprufer.com/contact-us/"
-      }
-    ],
-    "category": [
-      "Financial Services"
-    ],
-    "careers": "https://careers.buchprufer.com/job-openings/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/buchprufer-consultants-llp/",
-      "instagram": "https://www.instagram.com/buchprufer_consultants/",
-      "facebook": "https://www.facebook.com/buchprufer/",
-      "youtube": "https://www.youtube.com/channel/UC6zWPJEn8mDIFhIImDGz6Zw"
-    }
-  },
-  {
-    "name": "Codesap Technologies LLP",
-    "website": "https://www.codesap.com/",
-    "headquarters": {
-      "city": "Kozhikode",
-      "state": "Kerala",
-      "country": "India"
-    },
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "headquarters",
-        "tech_park": "UL CyberPark",
-        "source": "https://www.codesap.com/"
-      }
-    ],
-    "category": [
-      "IT Services"
-    ],
-    "careers": "https://www.codesap.com/pg/career/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/codesap/",
-      "x": "https://x.com/codesap",
-      "instagram": "https://www.instagram.com/codesap/",
-      "facebook": "https://www.facebook.com/codesap/",
-      "youtube": "https://www.youtube.com/@codesaptechnologies"
-    }
-  },
-  {
-    "name": "Direct Axis Technology LLC",
-    "website": "https://directaxistech.com/",
-    "headquarters": {
-      "city": "Dubai",
-      "state": "Dubai",
-      "country": "UAE"
-    },
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "UL CyberPark",
-        "source": "https://www.linkedin.com/company/direct-axis-technology/about"
-      }
-    ],
-    "category": [
-      "IT Services"
-    ],
-    "careers": "https://directaxistech.com/career/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/direct-axis-technology/",
-      "instagram": "https://www.instagram.com/directaxistech/",
-      "facebook": "https://www.facebook.com/DirectAxistech/",
-      "youtube": "https://www.youtube.com/@DirectAxisTechnology"
-    }
-  },
-  {
-    "name": "EQUAL ERP PRIVATE LIMITED",
-    "website": "https://www.equal.ae/",
-    "headquarters": {
-      "city": "Abu Dhabi",
-      "state": "Abu Dhabi",
-      "country": "UAE"
-    },
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "UL Cyberpark",
-        "source": "https://www.equal.ae/contact-us"
-      }
-    ],
-    "category": [
-      "IT Services"
-    ],
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/equal-erp/",
-      "x": "https://x.com/EqualErp",
-      "instagram": "https://www.instagram.com/equal_erp/",
-      "facebook": "https://www.facebook.com/EQUAL.ERP/"
-    }
-  },
-  {
-    "name": "Gritstone Technologies",
-    "website": "https://gritstonetech.com/",
-    "headquarters": {
-      "city": "Exton",
-      "state": "Pennsylvania",
-      "country": "USA"
-    },
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "UL CyberPark",
-        "source": "https://www.gritstonetech.com/location.html"
-      },
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "CyberPark Kozhikode",
-        "source": "https://www.gritstonetech.com/location.html"
-      },
-      {
-        "city": "Trivandrum",
-        "district": "Thiruvananthapuram",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "Technopark Phase IV",
-        "source": "https://www.gritstonetech.com/location.html"
-      },
-      {
-        "city": "Kochi",
-        "district": "Ernakulam",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "Infopark Phase II",
-        "source": "https://www.gritstonetech.com/location.html"
-      }
-    ],
-    "category": [
-      "IT Services"
-    ],
-    "careers": "https://gritstonetech.repetor.com/career",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/gritstone-technologies/",
-      "x": "https://x.com/gritstone_tech",
-      "instagram": "http://instagram.com/gritstonetechnologies/",
-      "facebook": "https://www.facebook.com/gritstonetechnologies",
-      "youtube": "https://www.youtube.com/channel/UCi8Dyd2dyPKD3aqq70KSRww"
-    }
-  },
-  {
-    "name": "Hexeam Software Solutions",
-    "website": "https://www.hexeam.com/",
-    "headquarters": {
-      "city": "Kozhikode",
-      "state": "Kerala",
-      "country": "India"
-    },
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "UL CyberPark",
-        "source": "https://www.linkedin.com/company/hexeam-software-solutions/about/"
-      },
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "Cyberpark Kozhikode",
-        "source": "https://www.linkedin.com/company/hexeam-software-solutions/about/"
-      }
-    ],
-    "category": [
-      "Software Development",
-      "IT Services"
-    ],
-    "careers": "https://www.hexeam.com/career/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/hexeam-software-solutions",
-      "x": "https://x.com/hexeamsolutions",
-      "instagram": "https://www.instagram.com/hexeamsolutions/",
-      "facebook": "https://www.facebook.com/hexeamsolutions"
-    }
-  },
-  {
-    "name": "HyperBlox Inc",
-    "website": "https://hyperblox.io/",
-    "headquarters": {
-      "city": "Nashua",
-      "state": "New Hampshire",
-      "country": "USA"
-    },
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "UL CyberPark",
-        "source": "https://www.linkedin.com/company/hyperblox-inc/"
-      }
-    ],
-    "category": [
-      "IT Serviecs"
-    ],
-    "careers": "https://hyperblox.io/company/careers/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/hyperblox-inc/"
-    }
-  },
-  {
-    "name": "Lenok Solutions",
-    "website": "https://lenoksolutions.com/",
-    "headquarters": {
-      "city": "Kozhikode",
-      "state": "Kerala",
-      "country": "India"
-    },
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "headquarters",
-        "tech_park": "UL CyberPark",
-        "source": "https://lenoksolutions.com/"
-      }
-    ],
-    "category": [
-      "IT Services",
-      "Software Development",
-      "Aviation"
-    ],
-    "careers": "https://lenoksolutions.com/career/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/lenok-solution/"
-    }
-  },
-  {
-    "name": "Meridian Solutions Inc",
-    "website": "http://www.meridian.net.in/",
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "source": "https://www.meridian.net.in/contact/"
-      },
-      {
-        "city": "Ernakulam",
-        "district": "Ernakulam",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "source": "https://www.meridian.net.in/contact/"
-      },
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "UL CyberPark",
-        "source": "https://www.meridian.net.in/contact/"
-      },
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "HILITE Business Park",
-        "source": "https://www.meridian.net.in/contact/"
-      }
-    ],
-    "category": [
-      "IT Services"
-    ],
-    "careers": "https://www.meridian.net.in/career/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/meridiansolutions/",
-      "x": "https://x.com/meridianinc",
-      "instagram": "https://www.instagram.com/meridiansolutionsinc",
-      "facebook": "https://www.facebook.com/MeridianITSolutions"
-    }
-  },
-  {
-    "name": "Mozilor",
-    "website": "https://www.mozilor.com/",
-    "headquarters": {
-      "city": "Milton Keynes",
-      "state": "England",
-      "country": "England"
-    },
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "UL CyberPark",
-        "source": "https://www.mozilor.com/contact-us/"
-      },
-      {
-        "city": "Kochi",
-        "district": "Ernakulam",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "InfoPark Phase 2",
-        "source": "https://www.mozilor.com/contact-us/"
-      }
-    ],
-    "category": [
-      "IT Services"
-    ],
-    "careers": "https://www.mozilor.com/careers/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/mozilor/",
-      "x": "https://x.com/mozilor",
-      "instagram": "https://www.instagram.com/mozilorofficial/",
-      "facebook": "https://www.facebook.com/mozilor"
-    }
-  },
-  {
-    "name": "Nestager Technologies Pvt Ltd",
-    "website": "https://www.netstager.com/",
-    "headquarters": {
-      "city": "Kozhikode",
-      "state": "Kerala",
-      "country": "India"
-    },
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "headquarters",
-        "tech_park": "UL CyberPark",
-        "source": "https://www.netstager.com/contact-us/"
-      }
-    ],
-    "category": [
-      "IT Services"
-    ],
-    "careers": "https://www.netstager.com/careers/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/netstager/",
-      "x": "https://x.com/Netstager",
-      "instagram": "https://www.instagram.com/netstagertechnologies/",
-      "facebook": "https://www.facebook.com/NetStager/",
-      "youtube": "https://www.youtube.com/user/Netstager"
-    }
-  },
-  {
-    "name": "Nucore",
-    "website": "https://www.nucore.in/",
-    "headquarters": {
-      "city": "Kozhikode",
-      "state": "Kerala",
-      "country": "India"
-    },
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "headquarters",
-        "tech_park": "UL CyberPark",
-        "source": "https://www.nucore.in/"
-      }
-    ],
-    "category": [
-      "IT Services"
-    ],
-    "careers": "https://www.nucore.in/vacancies/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/nucoresoftware/",
-      "x": "https://x.com/nucoreindia",
-      "facebook": "https://www.facebook.com/NucoreSoftwareSolutions"
-    }
-  },
-  {
-    "name": "PlaySpots",
-    "website": "https://www.playspots.in",
-    "headquarters": {
-      "city": "Kozhikode",
-      "state": "Kerala",
-      "country": "India"
-    },
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "headquarters",
-        "tech_park": "UL Cyberpark",
-        "source": "https://www.playspots.in"
-      }
-    ],
-    "category": [
-      "Sports",
-      "Product Company"
-    ],
-    "careers": "https://www.playspots.in/careers/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/playspotsapp/",
-      "x": "https://x.com/playspotsapp",
-      "instagram": "https://www.instagram.com/playspotsapp/",
-      "facebook": "https://www.facebook.com/playSpotsApp",
-      "youtube": "https://www.youtube.com/@playspotsapp1733"
-    }
-  },
-  {
-    "name": "Proaims IoT Solutions LLP",
-    "website": "https://proaims.com/",
-    "headquarters": {
-      "city": "Kozhikode",
-      "state": "Kerala",
-      "country": "India"
-    },
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "headquarters",
-        "tech_park": "UL CyberPark",
-        "source": "https://proaims.com/career"
-      }
-    ],
-    "category": [
-      "IT Services"
-    ],
-    "careers": "https://proaims.com/career",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/proaimsiot/",
-      "instagram": "https://www.instagram.com/proaims/"
-    }
-  },
-  {
-    "name": "QBurst",
-    "website": "https://www.qburst.com",
-    "headquarters": {
-      "city": "Chantilly",
-      "state": "Virginia",
-      "country": "USA"
-    },
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "UL CyberPark",
-        "source": "https://www.qburst.com/en-in/company/contact/"
-      },
-      {
-        "city": "Kochi",
-        "district": "Ernakulam",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "Lulu Cyber Tower",
-        "source": "https://www.qburst.com/en-in/company/contact/"
-      },
-      {
-        "city": "Koratty",
-        "district": "Thrissur",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "Infopark Thrissur",
-        "source": "https://www.qburst.com/en-in/company/contact/"
-      },
-      {
-        "city": "Trivandrum",
-        "district": "Thiruvananthapuram",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "Technopark Phase I",
-        "source": "https://www.qburst.com/en-in/company/contact/"
-      },
-      {
-        "city": "Trivandrum",
-        "district": "Thiruvananthapuram",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "source": "https://www.qburst.com/en-in/company/contact/"
-      },
-      {
-        "city": "Trivandrum",
-        "district": "Thiruvananthapuram",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "Technopark Phase III",
-        "source": "https://www.qburst.com/en-in/company/contact/"
-      },
-      {
-        "city": "Kochi",
-        "district": "Ernakulam",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "Infopark Phase I",
-        "source": "https://www.qburst.com/en-in/company/contact/"
-      }
-    ],
-    "category": [
-      "IT Services"
-    ],
-    "careers": "https://www.qburst.com/en-in/company/career/openings/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/qburst/",
-      "x": "https://x.com/QBurst",
-      "instagram": "https://www.instagram.com/qburstlife",
-      "facebook": "https://www.facebook.com/QBurst",
-      "youtube": "https://www.youtube.com/@qburst"
-    }
-  },
-  {
-    "name": "retailcloud",
-    "website": "http://www.retailcloud.com/",
-    "headquarters": {
-      "city": "Concord",
-      "state": "California",
-      "country": "USA"
-    },
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "UL CyberPark",
-        "source": "https://retailcloud.com/contact-us/"
-      }
-    ],
-    "category": [
-      "IT Services",
-      "Retail"
-    ],
-    "careers": "https://retailcloud.com/career/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/retailcloud/",
-      "instagram": "https://www.instagram.com/retailcloud_official/",
-      "facebook": "https://www.facebook.com/retailmadesimple/"
-    }
-  },
-  {
-    "name": "Sizcom Digital",
-    "website": "https://www.sizcomdigital.com/",
-    "headquarters": {
-      "city": "Kozhikode",
-      "state": "Kerala",
-      "country": "India"
-    },
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "UL CyberPark",
-        "source": "https://www.sizcomdigital.com/contact.html"
-      }
-    ],
-    "category": [
-      "IT Services"
-    ],
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/sizcomdigital/",
-      "x": "https://x.com/SizcomD",
-      "instagram": "https://www.instagram.com/sizcom_digital/"
-    }
-  },
-  {
-    "name": "SkyBook Global",
-    "website": "https://skybookglobal.com/",
-    "headquarters": {
-      "city": "Kozhikode",
-      "state": "Kerala",
-      "country": "India"
-    },
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "headquarters",
-        "tech_park": "UL CyberPark",
-        "source": "https://skybookglobal.com"
-      }
-    ],
-    "category": [
-      "Finance Services",
-      "IT Services",
-      "Travel"
-    ],
-    "careers": "https://skybookglobal.com/careers/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/skybookglobal/",
-      "x": "https://x.com/Skybookgbl",
-      "instagram": "https://www.instagram.com/skybookglobal",
-      "facebook": "https://www.facebook.com/skybookglobal"
-    }
-  },
-  {
-    "name": "Stackroots Technology Solutions Pvt Ltd",
-    "website": "https://www.stackroots.in/",
-    "headquarters": {
-      "city": "Kozhikode",
-      "state": "Kerala",
-      "country": "India"
-    },
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "headquarters",
-        "tech_park": "UL CyberPark",
-        "source": "https://www.stackroots.in/"
-      }
-    ],
-    "category": [
-      "IT Services",
-      "Software Development"
-    ],
-    "careers": "https://www.stackroots.in/careers",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/stackroots-technology-solutions/",
-      "instagram": "https://www.instagram.com/stackroots.technologies",
-      "facebook": "https://www.facebook.com/stackrootstechnology"
-    }
-  },
-  {
-    "name": "Synosys",
-    "website": "https://synosys.ai/",
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "UL CyberPark",
-        "source": "https://synosys.ai/contact-us/"
-      }
-    ],
-    "category": [
-      "IT Services"
-    ],
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/synosys/",
-      "instagram": "https://www.instagram.com/synosys_official"
-    }
-  },
-  {
-    "name": "Tata Elxsi",
-    "website": "https://www.tataelxsi.com",
-    "headquarters": {
-      "city": "Bangalore",
-      "state": "Karnataka",
-      "country": "India"
-    },
-    "locations": [
-      {
-        "city": "Trivandrum",
-        "district": "Thiruvananthapuram",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "Technopark Phase I",
-        "source": "https://www.tataelxsi.com/contact-us"
-      },
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "UL CyberPark",
-        "source": "https://www.tataelxsi.com/contact-us"
-      }
-    ],
-    "category": [
-      "IT Services"
-    ],
-    "careers": "https://www.tataelxsi.com/careers/job-openings",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/tataelxsi",
-      "x": "https://x.com/tataelxsi",
-      "instagram": "https://www.instagram.com/tataelxsi_worldwide/",
-      "facebook": "https://www.facebook.com/ElxsiTata",
-      "youtube": "https://www.youtube.com/channel/UCHr9K9n0INe57n39WJOUeiQ"
-    }
-  },
-  {
-    "name": "Techtadd",
-    "website": "https://techtadd.in/",
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "office",
-        "tech_park": "UL CyberPark",
-        "source": "https://techtadd.in/contact-us/"
-      }
-    ],
-    "category": [
-      "Advertising",
-      "Digital Marketing"
-    ],
-    "careers": "https://techtadd.in/careers/",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/techtadd-india/",
-      "x": "https://x.com/Techtaddindia",
-      "instagram": "https://www.instagram.com/techtaddindia",
-      "facebook": "https://www.facebook.com/Techtaddindia",
-      "youtube": "https://www.youtube.com/@Techtaddindia"
-    }
-  },
-  {
-    "name": "Tragon Media Pvt Ltd",
-    "website": "https://trogonmedia.com/",
-    "headquarters": {
-      "city": "Kozhikode",
-      "state": "Kerala",
-      "country": "India"
-    },
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "headquarters",
-        "tech_park": "UL CyberPark",
-        "source": "https://trogonmedia.com/contact"
-      }
-    ],
-    "category": [
-      "IT Services"
-    ],
-    "careers": "https://trogonmedia.com/career",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/trogonmedia/",
-      "x": "https://x.com/trogonmedia",
-      "instagram": "https://www.instagram.com/trogonmedia/",
-      "facebook": "https://www.facebook.com/TrogonMedia/"
-    }
-  },
-  {
-    "name": "ULTS Technology Solutions Pvt Ltd",
-    "website": "https://www.ultsglobal.com",
-    "headquarters": {
-      "city": "Kozhikode",
-      "state": "Kerala",
-      "country": "India"
-    },
-    "locations": [
-      {
-        "city": "Kozhikode",
-        "district": "Kozhikode",
-        "state": "Kerala",
-        "country": "India",
-        "type": "headquarters",
-        "tech_park": "UL CyberPark",
-        "source": "https://www.ultsglobal.com"
-      }
-    ],
-    "category": [
-      "IT Services"
-    ],
-    "careers": "https://www.ultsglobal.com/career",
-    "socials": {
-      "linkedin": "https://www.linkedin.com/company/ul-technology-solution",
-      "x": "https://x.com/ultechnology",
-      "facebook": "https://www.facebook.com/ULTechnologySolutions/"
-    }
-  }
+	{
+		"name": "ABANA Technology Pvt Ltd",
+		"website": "https://www.abanatechnology.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.abanatechnology.com/contact.html"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://www.abanatechnology.com/career.html",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/abanatech/",
+			"instagram": "https://www.instagram.com/abana_technology_family"
+		}
+	},
+	{
+		"name": "Acadeno Technologies Private Limited",
+		"website": "https://www.acadeno.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.acadeno.com/#contact"
+			}
+		],
+		"category": ["IT Services"],
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/acadeno/"
+		}
+	},
+	{
+		"name": "Acodez IT Solutions",
+		"website": "https://acodez.in/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "UL CyberPark",
+				"source": "https://www.linkedin.com/company/acodez-it-solutions/about/"
+			},
+			{
+				"city": "WestHill",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"source": "https://acodez.in/"
+			},
+			{
+				"city": "Kochi",
+				"district": "Ernakulam",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"source": "https://acodez.in/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://acodez.in/careers/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/acodez-it-solutions/",
+			"x": "https://x.com/acodez",
+			"dribbble": "https://dribbble.com/acodez",
+			"behance": "https://www.behance.net/acodez",
+			"instagram": "https://www.instagram.com/acodezsolutions/",
+			"facebook": "https://www.facebook.com/Acodez"
+		}
+	},
+	{
+		"name": "Actionfi Technologies",
+		"website": "https://actionfi.com/",
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "UL CyberPark",
+				"source": "https://actionfi.com/"
+			},
+			{
+				"city": "Kochi",
+				"district": "Ernakulam",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"source": "https://actionfi.com/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://actionfi.com/career/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/actionfi",
+			"x": "https://x.com/actionfi_",
+			"facebook": "https://www.facebook.com/actionfi2015",
+			"youtube": "https://www.youtube.com/@actionfi"
+		}
+	},
+	{
+		"name": "Adam Finastra",
+		"website": "https://adamfinastra.tech/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://adamfinastra.tech/contact"
+			}
+		],
+		"category": ["IT Services"],
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/adam-finastra/",
+			"instagram": "https://www.instagram.com/adamfinastra/"
+		}
+	},
+	{
+		"name": "Aerovative Technologies",
+		"website": "https://www.aerovative.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "UL CyberPark",
+				"source": "https://www.aerovative.com/contact/"
+			}
+		],
+		"category": ["IT Services", "Aviation"],
+		"careers": "https://www.aerovative.com/careers/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/aerovative",
+			"instagram": "https://www.instagram.com/aerovative_technologies",
+			"facebook": "https://www.facebook.com/aerovative"
+		}
+	},
+	{
+		"name": "Analystor Technologies",
+		"website": "https://www.analystortech.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.analystortech.com/contactus.html"
+			},
+			{
+				"city": "Trivandrum",
+				"district": "Thiruvananthapuram",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Technopark Phase I",
+				"source": "https://www.analystortech.com/contactus.html"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://www.analystortech.com/careers.html",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/analystor-technologies/",
+			"instagram": "https://www.instagram.com/analystortechnologies/"
+		}
+	},
+	{
+		"name": "AppSure Software Solutions Pvt Ltd",
+		"website": "https://www.appsure.in/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "UL CyberPark",
+				"source": "https://www.linkedin.com/company/appsure-software-solutions/about/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://www.appsure.in/Home/Career",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/appsure-software-solutions/"
+		}
+	},
+	{
+		"name": "Artifitia Solutions LLP",
+		"website": "https://www.artifitia.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.artifitia.com/"
+			}
+		],
+		"category": ["IT Services"],
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/artifitia-solutions"
+		}
+	},
+	{
+		"name": "Asterbyte Software Systems Pvt Ltd",
+		"website": "https://asterbyte.com/",
+		"headquarters": {
+			"city": "Noida",
+			"state": "Uttar Pradesh",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Thalassery",
+				"district": "Kannur",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"source": "https://asterbyte.com/contact/"
+			},
+			{
+				"city": "Kochi",
+				"district": "Ernakulam",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"source": "https://asterbyte.com/contact/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://asterbyte.com/careers/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/asterbyte-software-systems-private-limited/",
+			"x": "https://x.com/AsterbyteS",
+			"instagram": "https://www.instagram.com/asterbytesoftwaresystems/",
+			"facebook": "https://www.facebook.com/asterbytesoftwaresystems",
+			"youtube": "https://www.youtube.com/@asterbyte"
+		}
+	},
+	{
+		"name": "Aufait Technologies Pvt Ltd",
+		"website": "https://aufaittechnologies.com/",
+		"headquarters": {
+			"city": "Bengaluru",
+			"state": "Karnataka",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://aufaittechnologies.com/get-touch/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://aufaittechnologies.com/careers/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/aufait-technologies-pvt--ltd-/",
+			"x": "https://x.com/AufaitTech",
+			"instagram": "https://www.instagram.com/aufaittech/",
+			"facebook": "https://www.facebook.com/aufaittech"
+		}
+	},
+	{
+		"name": "Axel Technologies Pvt Ltd",
+		"website": "https://axeltechnologies.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.linkedin.com/company/axeltechnologies/about/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://axeltechnologies.com/careers",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/axeltechnologies/",
+			"instagram": "https://www.instagram.com/axel_technologies/",
+			"facebook": "https://www.facebook.com/axeltechnologiespvtlimited/"
+		}
+	},
+	{
+		"name": "Bititude Technologies",
+		"website": "https://bititude.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "UL CyberPark",
+				"source": "https://bititude.com/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://hollow-astrodon-9b4.notion.site/Careers-at-Bititude-4ee44cd34a444703bd5a62df7ef8cecb",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/bititude-technologies/",
+			"github": "https://github.com/bititude",
+			"x": "https://x.com/bititudetech",
+			"instagram": "https://www.instagram.com/bititude",
+			"facebook": "https://www.facebook.com/bititude"
+		}
+	},
+	{
+		"name": "Blackhawk Network",
+		"website": "https://www.bhnrewards.com/",
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "UL CyberPark",
+				"source": "https://www.linkedin.com/company/blackhawk-network/"
+			}
+		],
+		"category": ["FinTech"],
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/blackhawk-network/",
+			"x": "https://x.com/BHNrewards"
+		}
+	},
+	{
+		"name": "BMS Estimating  Private Limited",
+		"website": "https://bmsestimating.com/",
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "UL CyberPark",
+				"source": "https://www.linkedin.com/company/bms-estimating-private-limited/"
+			}
+		],
+		"category": ["Building and Construction"],
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/bms-estimating-private-limited/"
+		}
+	},
+	{
+		"name": "Bpract Software Solutions LLP",
+		"website": "https://bpract.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://bpract.com/contact/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://bpract.com/careers/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/bpract-software-solutions-llp",
+			"x": "https://x.com/bpract",
+			"instagram": "https://www.instagram.com/bpract/",
+			"facebook": "https://www.facebook.com/Bpract/"
+		}
+	},
+	{
+		"name": "Buchprufer Consultants LLP",
+		"website": "https://buchprufer.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kochi",
+				"district": "Ernakulam",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"source": "https://buchprufer.com/contact-us/"
+			},
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "UL CyberPark",
+				"source": "https://buchprufer.com/contact-us/"
+			}
+		],
+		"category": ["Financial Services"],
+		"careers": "https://careers.buchprufer.com/job-openings/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/buchprufer-consultants-llp/",
+			"instagram": "https://www.instagram.com/buchprufer_consultants/",
+			"facebook": "https://www.facebook.com/buchprufer/",
+			"youtube": "https://www.youtube.com/channel/UC6zWPJEn8mDIFhIImDGz6Zw"
+		}
+	},
+	{
+		"name": "CADMUS Steel Detailing Services",
+		"website": "https://www.cadmussteel.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.cadmussteel.com"
+			}
+		],
+		"category": ["Engineering Services"],
+		"careers": "https://www.cadmussteel.com/career",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/cadmussteel/",
+			"instagram": "https://www.instagram.com/cadmussteel",
+			"facebook": "https://www.facebook.com/cadmussteel"
+		}
+	},
+	{
+		"name": "Coddle Technologies Pvt Ltd",
+		"website": "https://www.coddletech.com/",
+		"headquarters": {
+			"city": "Bengaluru",
+			"state": "Karnataka",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.coddletech.com/contact-us"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://www.coddletech.com/careers",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/coddletech",
+			"x": "https://x.com/coddletech",
+			"instagram": "https://www.instagram.com/coddletech",
+			"facebook": "https://www.facebook.com/coddletech/",
+			"youtube": "https://www.youtube.com/@coddletech"
+		}
+	},
+	{
+		"name": "CodeAce IT Solutions LLP",
+		"website": "https://codeace.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://codeace.com/careers/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://codeace.com/careers/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/codeace",
+			"instagram": "https://www.instagram.com/codeaceit/",
+			"facebook": "https://www.facebook.com/CodeAceIT",
+			"youtube": "https://www.youtube.com/channel/UCKLOzxG0-saHdMlBPUTjJag"
+		}
+	},
+	{
+		"name": "Codesap Technologies LLP",
+		"website": "https://www.codesap.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "UL CyberPark",
+				"source": "https://www.codesap.com/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://www.codesap.com/pg/career/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/codesap/",
+			"x": "https://x.com/codesap",
+			"instagram": "https://www.instagram.com/codesap/",
+			"facebook": "https://www.facebook.com/codesap/",
+			"youtube": "https://www.youtube.com/@codesaptechnologies"
+		}
+	},
+	{
+		"name": "Codilar Technologies",
+		"website": "https://www.codilar.com/",
+		"headquarters": {
+			"city": "Bengaluru",
+			"state": "Karnataka",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.linkedin.com/company/codilar/about/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://resource.codilar.com/jobs",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/codilar/",
+			"x": "https://x.com/codilar",
+			"instagram": "https://www.instagram.com/hello_codilar/",
+			"facebook": "https://www.facebook.com/HelloCodilar/",
+			"youtube": "https://www.youtube.com/@CodilarTechnologiesPvtLtd"
+		}
+	},
+	{
+		"name": "Cronus Steel Detailing Pvt Ltd",
+		"website": "https://www.cronussteel.com/",
+		"headquarters": {
+			"city": "Austin",
+			"state": "Texas",
+			"country": "USA"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.cronussteel.com/contact"
+			}
+		],
+		"category": ["Construction", "Engineering"],
+		"careers": "https://www.cronussteel.com/career",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/cronus-steel-detailing/",
+			"x": "https://x.com/CronusSteel",
+			"facebook": "https://www.facebook.com/cronussteel",
+			"youtube": "https://www.youtube.com/channel/UCU-gL-7w2Iom_2vPBI3Df3A"
+		}
+	},
+	{
+		"name": "D4 Integrated Security Solution LLP",
+		"website": "https://www.dfoursec.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.dfoursec.com/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://www.dfoursec.com/career.php",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/d4-integrated-security-solutions-llp/",
+			"instagram": "https://www.instagram.com/d4securitysolutions",
+			"youtube": "https://www.youtube.com/channel/UCaFgssXN1cENTtIY1FITxIA"
+		}
+	},
+	{
+		"name": "Dezen Consultants International Pvt Ltd",
+		"website": "http://www.dezen.in/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "HILITE Business Park",
+				"source": "https://dezen.in/about-us/"
+			}
+		],
+		"category": ["Construction"],
+		"careers": "https://dezen.in/careers/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/dezen-consultants-international/"
+		}
+	},
+	{
+		"name": "Direct Axis Technology LLC",
+		"website": "https://directaxistech.com/",
+		"headquarters": {
+			"city": "Dubai",
+			"state": "Dubai",
+			"country": "UAE"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "UL CyberPark",
+				"source": "https://www.linkedin.com/company/direct-axis-technology/about"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://directaxistech.com/career/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/direct-axis-technology/",
+			"instagram": "https://www.instagram.com/directaxistech/",
+			"facebook": "https://www.facebook.com/DirectAxistech/",
+			"youtube": "https://www.youtube.com/@DirectAxisTechnology"
+		}
+	},
+	{
+		"name": "Doctosmart",
+		"website": "http://www.doctosmart.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "http://www.doctosmart.com/contact-us.html"
+			},
+			{
+				"city": "Kochi",
+				"district": "Ernakulam",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"source": "http://www.doctosmart.com/contact-us.html"
+			}
+		],
+		"category": ["Healthcare", "IT Services"],
+		"careers": "http://www.doctosmart.com/jobs.html",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/doctosmart-enterprises-private-limited/",
+			"instagram": "https://www.instagram.com/doctosmart"
+		}
+	},
+	{
+		"name": "EQUAL ERP PRIVATE LIMITED",
+		"website": "https://www.equal.ae/",
+		"headquarters": {
+			"city": "Abu Dhabi",
+			"state": "Abu Dhabi",
+			"country": "UAE"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "UL Cyberpark",
+				"source": "https://www.equal.ae/contact-us"
+			}
+		],
+		"category": ["IT Services"],
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/equal-erp/",
+			"x": "https://x.com/EqualErp",
+			"instagram": "https://www.instagram.com/equal_erp/",
+			"facebook": "https://www.facebook.com/EQUAL.ERP/"
+		}
+	},
+	{
+		"name": "eSynergy Software Technologies Pvt Ltd",
+		"website": "https://www.esynergysoft.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.esynergysoft.com/contact.html"
+			},
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"source": "https://www.linkedin.com/company/esynergysoftwares/about/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://www.esynergysoft.com/careers.html",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/esynergysoftwares/",
+			"facebook": "https://www.facebook.com/esynergysoftwares/"
+		}
+	},
+	{
+		"name": "FantaCode Private Limited",
+		"website": "https://www.fantacode.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.fantacode.com/contact-us"
+			}
+		],
+		"category": ["IT Services", "Software Development"],
+		"careers": "https://www.fantacode.com/career#job-openings",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/fantacode",
+			"x": "https://x.com/fantacode",
+			"instagram": "https://www.instagram.com/fantacode/",
+			"facebook": "https://www.facebook.com/fantacode/?_rdr"
+		}
+	},
+	{
+		"name": "Freston Analytics",
+		"website": "http://www.frestonanalytics.com/",
+		"headquarters": {
+			"city": "IPSWICH",
+			"state": "London",
+			"country": "UK"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.linkedin.com/company/frestonanalytics/about/"
+			}
+		],
+		"category": ["IT Services"],
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/frestonanalytics"
+		}
+	},
+	{
+		"name": "Getlead Analytics Pvt Ltd",
+		"website": "https://getleadcrm.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://getleadcrm.com/contact-us"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://getleadcrm.com/careers",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/getleadconnect/",
+			"facebook": "https://www.facebook.com/getleadconnect",
+			"youtube": "https://www.youtube.com/channel/UCY7DNqAFvIKvvDn0agBFDGQ"
+		}
+	},
+	{
+		"name": "GJ Global IT Ventures Pvt Ltd",
+		"website": "https://www.gjglobalsoft.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.gjglobalsoft.com/contact-us"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://www.gjglobalsoft.com/career",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/gj-global/",
+			"instagram": "https://www.instagram.com/gjglobalsoft",
+			"youtube": "https://www.youtube.com/@GJGlobal-g26"
+		}
+	},
+	{
+		"name": "Gritstone Technologies",
+		"website": "https://gritstonetech.com/",
+		"headquarters": {
+			"city": "Exton",
+			"state": "Pennsylvania",
+			"country": "USA"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "UL CyberPark",
+				"source": "https://www.gritstonetech.com/location.html"
+			},
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "CyberPark Kozhikode",
+				"source": "https://www.gritstonetech.com/location.html"
+			},
+			{
+				"city": "Trivandrum",
+				"district": "Thiruvananthapuram",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Technopark Phase IV",
+				"source": "https://www.gritstonetech.com/location.html"
+			},
+			{
+				"city": "Kochi",
+				"district": "Ernakulam",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Infopark Phase II",
+				"source": "https://www.gritstonetech.com/location.html"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://gritstonetech.repetor.com/career",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/gritstone-technologies/",
+			"x": "https://x.com/gritstone_tech",
+			"instagram": "http://instagram.com/gritstonetechnologies/",
+			"facebook": "https://www.facebook.com/gritstonetechnologies",
+			"youtube": "https://www.youtube.com/channel/UCi8Dyd2dyPKD3aqq70KSRww"
+		}
+	},
+	{
+		"name": "Hexeam Software Solutions",
+		"website": "https://www.hexeam.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "UL CyberPark",
+				"source": "https://www.linkedin.com/company/hexeam-software-solutions/about/"
+			},
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.linkedin.com/company/hexeam-software-solutions/about/"
+			}
+		],
+		"category": ["Software Development", "IT Services"],
+		"careers": "https://www.hexeam.com/career/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/hexeam-software-solutions",
+			"x": "https://x.com/hexeamsolutions",
+			"instagram": "https://www.instagram.com/hexeamsolutions/",
+			"facebook": "https://www.facebook.com/hexeamsolutions"
+		}
+	},
+	{
+		"name": "HyperBlox Inc",
+		"website": "https://hyperblox.io/",
+		"headquarters": {
+			"city": "Nashua",
+			"state": "New Hampshire",
+			"country": "USA"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "UL CyberPark",
+				"source": "https://www.linkedin.com/company/hyperblox-inc/"
+			}
+		],
+		"category": ["IT Serviecs"],
+		"careers": "https://hyperblox.io/company/careers/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/hyperblox-inc/"
+		}
+	},
+	{
+		"name": "Infinite Open Source Solutions LLP",
+		"website": "https://ioss.co/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://ioss.co/contact-us"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://ioss.co/careers",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/infinite-open-source-solutions/",
+			"instagram": "https://www.instagram.com/infinite_open_source_solutions/",
+			"facebook": "https://www.facebook.com/infiniteopensourcesolutions/"
+		}
+	},
+	{
+		"name": "IOCOD Infotech",
+		"website": "https://iocod.com/",
+		"headquarters": {
+			"city": "New York",
+			"state": "New York",
+			"country": "USA"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://iocod.com/"
+			}
+		],
+		"category": ["IT Services", "FinTech"],
+		"careers": "https://iocod.com/careers",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/iocodinfotech/",
+			"x": "https://x.com/iocodinfotech",
+			"instagram": "https://www.instagram.com/iocod_infotech/",
+			"facebook": "https://www.facebook.com/iocodinfotech"
+		}
+	},
+	{
+		"name": "ioNob Innovations LLP",
+		"website": "https://ionob.com/",
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://ionob.com/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://ionob.com/career/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/ionob/",
+			"facebook": "https://www.facebook.com/ionobtechnologies"
+		}
+	},
+	{
+		"name": "IPIX Technologies",
+		"website": "https://www.ipixtechnologies.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.ipixtechnologies.com/"
+			}
+		],
+		"category": ["IT Sevices"],
+		"careers": "https://www.ipixtechnologies.com/careers",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/ipixtech/",
+			"x": "https://x.com/ipixtech",
+			"behance": "https://www.behance.net/ipixtechnologies",
+			"instagram": "https://www.instagram.com/ipixtech",
+			"facebook": "https://www.facebook.com/ipixtech",
+			"youtube": "https://www.youtube.com/@ipixtechnologies2164"
+		}
+	},
+	{
+		"name": "John & Smith Solutions Pvt Ltd",
+		"website": "https://johnandsmithglobal.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.linkedin.com/company/johnandsmith/about/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://johnandsmithglobal.com/careers",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/johnandsmith/",
+			"x": "https://x.com/johnandsmithuk",
+			"instagram": "https://www.instagram.com/johnandsmithglobal/",
+			"facebook": "https://www.facebook.com/johnandsmith.co.uk"
+		}
+	},
+	{
+		"name": "Keype Technologies",
+		"website": "https://www.keype.com/",
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://cyberparks.in/companies-at-park/"
+			}
+		],
+		"category": ["IT Services"],
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/keype/",
+			"x": "https://x.com/keype",
+			"facebook": "https://www.facebook.com/keype.systems"
+		}
+	},
+	{
+		"name": "LeEYET Techni Hub LLP",
+		"website": "https://leeyet.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark",
+				"source": "https://leeyet.com/#contactUs"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://leeyet.com/careers",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/leeye-t-techno-hub-llp/",
+			"x": "https://x.com/LEEYE_T",
+			"instagram": "https://www.instagram.com/leeyet1/",
+			"facebook": "https://www.facebook.com/LeEYETtechnohub/"
+		}
+	},
+	{
+		"name": "Lenok Solutions",
+		"website": "https://lenoksolutions.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "UL CyberPark",
+				"source": "https://lenoksolutions.com/"
+			}
+		],
+		"category": ["IT Services", "Software Development", "Aviation"],
+		"careers": "https://lenoksolutions.com/career/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/lenok-solution/"
+		}
+	},
+	{
+		"name": "Lilac Infotech",
+		"website": "https://lilacinfotech.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://lilacinfotech.com/contact-us"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://lilacinfotech.com/careers",
+		"socials": {
+			"linkedin": "https://linkedin.com/company/lilac-infotech-pvt-ltd/",
+			"x": "https://x.com/LilacInfotech",
+			"behance": "https://www.behance.net/lilac-infotech",
+			"instagram": "https://www.instagram.com/lilacinfotech/",
+			"facebook": "https://www.facebook.com/lilacinfotech/"
+		}
+	},
+	{
+		"name": "Limenzy Technologies Pvt Ltd",
+		"website": "https://limenzy.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://limenzy.com/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://limenzy.com/careers",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/limenzy-technologies",
+			"x": "https://x.com/limenzy1",
+			"instagram": "https://www.instagram.com/limenzy/",
+			"facebook": "https://www.facebook.com/limenzy/"
+		}
+	},
+	{
+		"name": "Lithos Technosoft Pvt Ltd",
+		"website": "https://www.lithostechnosoft.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.lithostechnosoft.com/contact"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://www.lithostechnosoft.com/careers",
+		"socials": {
+			"instagram": "https://www.instagram.com/lithostechnosoft/",
+			"youtube": "https://www.youtube.com/@LithosPOS"
+		}
+	},
+	{
+		"name": "Logiology Solutions",
+		"website": "https://logiology.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://logiology.com/"
+			},
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "HILITE Business Park",
+				"source": "https://logiology.com/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://logiology.com/career",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/logiologysolutions/",
+			"instagram": "https://www.instagram.com/logiology",
+			"facebook": "https://www.facebook.com/logiology/",
+			"youtube": "https://www.youtube.com/channel/UC63W3BuZ-3U1YLfnjgf7lOg"
+		}
+	},
+	{
+		"name": "Meridian Solutions Inc",
+		"website": "http://www.meridian.net.in/",
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"source": "https://www.meridian.net.in/contact/"
+			},
+			{
+				"city": "Ernakulam",
+				"district": "Ernakulam",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"source": "https://www.meridian.net.in/contact/"
+			},
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "UL CyberPark",
+				"source": "https://www.meridian.net.in/contact/"
+			},
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "HILITE Business Park",
+				"source": "https://www.meridian.net.in/contact/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://www.meridian.net.in/career/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/meridiansolutions/",
+			"x": "https://x.com/meridianinc",
+			"instagram": "https://www.instagram.com/meridiansolutionsinc",
+			"facebook": "https://www.facebook.com/MeridianITSolutions"
+		}
+	},
+	{
+		"name": "Mozilor",
+		"website": "https://www.mozilor.com/",
+		"headquarters": {
+			"city": "Milton Keynes",
+			"state": "England",
+			"country": "England"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "UL CyberPark",
+				"source": "https://www.mozilor.com/contact-us/"
+			},
+			{
+				"city": "Kochi",
+				"district": "Ernakulam",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "InfoPark Phase 2",
+				"source": "https://www.mozilor.com/contact-us/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://www.mozilor.com/careers/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/mozilor/",
+			"x": "https://x.com/mozilor",
+			"instagram": "https://www.instagram.com/mozilorofficial/",
+			"facebook": "https://www.facebook.com/mozilor"
+		}
+	},
+	{
+		"name": "Nestager Technologies Pvt Ltd",
+		"website": "https://www.netstager.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "UL CyberPark",
+				"source": "https://www.netstager.com/contact-us/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://www.netstager.com/careers/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/netstager/",
+			"x": "https://x.com/Netstager",
+			"instagram": "https://www.instagram.com/netstagertechnologies/",
+			"facebook": "https://www.facebook.com/NetStager/",
+			"youtube": "https://www.youtube.com/user/Netstager"
+		}
+	},
+	{
+		"name": "North Metrix",
+		"website": "https://www.northmetrix.com",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.linkedin.com/company/north-metrix/about/"
+			}
+		],
+		"category": ["IT Services"],
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/north-metrix/"
+		}
+	},
+	{
+		"name": "Nucore",
+		"website": "https://www.nucore.in/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "UL CyberPark",
+				"source": "https://www.nucore.in/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://www.nucore.in/vacancies/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/nucoresoftware/",
+			"x": "https://x.com/nucoreindia",
+			"facebook": "https://www.facebook.com/NucoreSoftwareSolutions"
+		}
+	},
+	{
+		"name": "PlaySpots",
+		"website": "https://www.playspots.in",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "UL Cyberpark",
+				"source": "https://www.playspots.in"
+			}
+		],
+		"category": ["Sports", "Product Company"],
+		"careers": "https://www.playspots.in/careers/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/playspotsapp/",
+			"x": "https://x.com/playspotsapp",
+			"instagram": "https://www.instagram.com/playspotsapp/",
+			"facebook": "https://www.facebook.com/playSpotsApp",
+			"youtube": "https://www.youtube.com/@playspotsapp1733"
+		}
+	},
+	{
+		"name": "Proaims IoT Solutions LLP",
+		"website": "https://proaims.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "UL CyberPark",
+				"source": "https://proaims.com/career"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://proaims.com/career",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/proaimsiot/",
+			"instagram": "https://www.instagram.com/proaims/"
+		}
+	},
+	{
+		"name": "QBurst",
+		"website": "https://www.qburst.com",
+		"headquarters": {
+			"city": "Chantilly",
+			"state": "Virginia",
+			"country": "USA"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "UL CyberPark",
+				"source": "https://www.qburst.com/en-in/company/contact/"
+			},
+			{
+				"city": "Kochi",
+				"district": "Ernakulam",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Lulu Cyber Tower",
+				"source": "https://www.qburst.com/en-in/company/contact/"
+			},
+			{
+				"city": "Koratty",
+				"district": "Thrissur",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Infopark Thrissur",
+				"source": "https://www.qburst.com/en-in/company/contact/"
+			},
+			{
+				"city": "Trivandrum",
+				"district": "Thiruvananthapuram",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Technopark Phase I",
+				"source": "https://www.qburst.com/en-in/company/contact/"
+			},
+			{
+				"city": "Trivandrum",
+				"district": "Thiruvananthapuram",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"source": "https://www.qburst.com/en-in/company/contact/"
+			},
+			{
+				"city": "Trivandrum",
+				"district": "Thiruvananthapuram",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Technopark Phase III",
+				"source": "https://www.qburst.com/en-in/company/contact/"
+			},
+			{
+				"city": "Kochi",
+				"district": "Ernakulam",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Infopark Phase I",
+				"source": "https://www.qburst.com/en-in/company/contact/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://www.qburst.com/en-in/company/career/openings/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/qburst/",
+			"x": "https://x.com/QBurst",
+			"instagram": "https://www.instagram.com/qburstlife",
+			"facebook": "https://www.facebook.com/QBurst",
+			"youtube": "https://www.youtube.com/@qburst"
+		}
+	},
+	{
+		"name": "retailcloud",
+		"website": "http://www.retailcloud.com/",
+		"headquarters": {
+			"city": "Concord",
+			"state": "California",
+			"country": "USA"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "UL CyberPark",
+				"source": "https://retailcloud.com/contact-us/"
+			}
+		],
+		"category": ["IT Services", "Retail"],
+		"careers": "https://retailcloud.com/career/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/retailcloud/",
+			"instagram": "https://www.instagram.com/retailcloud_official/",
+			"facebook": "https://www.facebook.com/retailmadesimple/"
+		}
+	},
+	{
+		"name": "Sizcom Digital",
+		"website": "https://www.sizcomdigital.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "UL CyberPark",
+				"source": "https://www.sizcomdigital.com/contact.html"
+			}
+		],
+		"category": ["IT Services"],
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/sizcomdigital/",
+			"x": "https://x.com/SizcomD",
+			"instagram": "https://www.instagram.com/sizcom_digital/"
+		}
+	},
+	{
+		"name": "SkyBook Global",
+		"website": "https://skybookglobal.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "UL CyberPark",
+				"source": "https://skybookglobal.com"
+			}
+		],
+		"category": ["Finance Services", "IT Services", "Travel"],
+		"careers": "https://skybookglobal.com/careers/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/skybookglobal/",
+			"x": "https://x.com/Skybookgbl",
+			"instagram": "https://www.instagram.com/skybookglobal",
+			"facebook": "https://www.facebook.com/skybookglobal"
+		}
+	},
+	{
+		"name": "Stackroots Technology Solutions Pvt Ltd",
+		"website": "https://www.stackroots.in/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "UL CyberPark",
+				"source": "https://www.stackroots.in/"
+			}
+		],
+		"category": ["IT Services", "Software Development"],
+		"careers": "https://www.stackroots.in/careers",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/stackroots-technology-solutions/",
+			"instagram": "https://www.instagram.com/stackroots.technologies",
+			"facebook": "https://www.facebook.com/stackrootstechnology"
+		}
+	},
+	{
+		"name": "Synosys",
+		"website": "https://synosys.ai/",
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "UL CyberPark",
+				"source": "https://synosys.ai/contact-us/"
+			}
+		],
+		"category": ["IT Services"],
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/synosys/",
+			"instagram": "https://www.instagram.com/synosys_official"
+		}
+	},
+	{
+		"name": "Tata Elxsi",
+		"website": "https://www.tataelxsi.com",
+		"headquarters": {
+			"city": "Bangalore",
+			"state": "Karnataka",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Trivandrum",
+				"district": "Thiruvananthapuram",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Technopark Phase I",
+				"source": "https://www.tataelxsi.com/contact-us"
+			},
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "UL CyberPark",
+				"source": "https://www.tataelxsi.com/contact-us"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://www.tataelxsi.com/careers/job-openings",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/tataelxsi",
+			"x": "https://x.com/tataelxsi",
+			"instagram": "https://www.instagram.com/tataelxsi_worldwide/",
+			"facebook": "https://www.facebook.com/ElxsiTata",
+			"youtube": "https://www.youtube.com/channel/UCHr9K9n0INe57n39WJOUeiQ"
+		}
+	},
+	{
+		"name": "Techtadd",
+		"website": "https://techtadd.in/",
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "UL CyberPark",
+				"source": "https://techtadd.in/contact-us/"
+			}
+		],
+		"category": ["Advertising", "Digital Marketing"],
+		"careers": "https://techtadd.in/careers/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/techtadd-india/",
+			"x": "https://x.com/Techtaddindia",
+			"instagram": "https://www.instagram.com/techtaddindia",
+			"facebook": "https://www.facebook.com/Techtaddindia",
+			"youtube": "https://www.youtube.com/@Techtaddindia"
+		}
+	},
+	{
+		"name": "Tragon Media Pvt Ltd",
+		"website": "https://trogonmedia.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "UL CyberPark",
+				"source": "https://trogonmedia.com/contact"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://trogonmedia.com/career",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/trogonmedia/",
+			"x": "https://x.com/trogonmedia",
+			"instagram": "https://www.instagram.com/trogonmedia/",
+			"facebook": "https://www.facebook.com/TrogonMedia/"
+		}
+	},
+	{
+		"name": "ULTS Technology Solutions Pvt Ltd",
+		"website": "https://www.ultsglobal.com",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "UL CyberPark",
+				"source": "https://www.ultsglobal.com"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://www.ultsglobal.com/career",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/ul-technology-solution",
+			"x": "https://x.com/ultechnology",
+			"facebook": "https://www.facebook.com/ULTechnologySolutions/"
+		}
+	}
 ]
