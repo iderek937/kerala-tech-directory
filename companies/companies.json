@@ -1055,6 +1055,34 @@
 		}
 	},
 	{
+		"name": "Iluzia Lab LLP",
+		"website": "https://iluzialabs.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://iluzialabs.com/top-virtual-labs-in-india/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://iluzialabs.com/careers/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/iluzialab/",
+			"instagram": "https://www.instagram.com/iluzialab/",
+			"facebook": "https://www.facebook.com/iluzialabs/",
+			"youtube": "https://www.youtube.com/channel/UCnTliDX2GaASeREzo2e3YXA"
+		}
+	},
+	{
 		"name": "Infinite Open Source Solutions LLP",
 		"website": "https://ioss.co/",
 		"headquarters": {
@@ -1383,6 +1411,111 @@
 		}
 	},
 	{
+		"name": "M2H Infotech LLP",
+		"website": "https://m2hinfotech.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://m2hinfotech.com/contact"
+			}
+		],
+		"category": ["IT Services"],
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/m2hinfotechllp/",
+			"instagram": "https://www.instagram.com/m2hinfotech",
+			"facebook": "https://www.facebook.com/profile.php?id=61586500712791"
+		}
+	},
+	{
+		"name": "Mechanfo Intellect",
+		"website": "https://mechanfo.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.linkedin.com/company/mechanfointellect/about/"
+			}
+		],
+		"category": ["IT Services"],
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/mechanfointellect/",
+			"x": "https://x.com/mechanfo",
+			"instagram": "https://www.instagram.com/mechanfo"
+		}
+	},
+	{
+		"name": "MedAura Infotech Pvt Ltd",
+		"website": "https://medaura.io/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://medaura.io"
+			}
+		],
+		"category": ["Healthcare", "IT Services"],
+		"careers": "https://medaura.io/careers",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/medaura-erp/",
+			"instagram": "https://www.instagram.com/medaura.erp",
+			"facebook": "https://www.facebook.com/medauraerp"
+		}
+	},
+	{
+		"name": "Mentor Performance Rating Pvt Ltd",
+		"website": "https://mentorperformance.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://mentorperformance.com/contact-us/"
+			}
+		],
+		"category": ["IT Services"],
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/mentor-performance-rating-private-ltd/",
+			"instagram": "https://www.instagram.com/icresp_erp/",
+			"facebook": "https://www.facebook.com/mentorperformance"
+		}
+	},
+	{
 		"name": "Meridian Solutions Inc",
 		"website": "http://www.meridian.net.in/",
 		"locations": [
@@ -1431,6 +1564,70 @@
 		}
 	},
 	{
+		"name": "Midnay Tech Pvt Ltd",
+		"website": "https://midnay.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kakkanchery",
+				"district": "Malappuram",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Kinfra Techno Industrial Park",
+				"source": "https://midnay.com"
+			},
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.linkedin.com/company/midnay/about/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://midnay.com/hiring/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/midnay/",
+			"x": "https://x.com/midnay_hq",
+			"instagram": "https://www.instagram.com/midnay_hq/",
+			"facebook": "https://www.facebook.com/midnayhq"
+		}
+	},
+	{
+		"name": "Mojgenie IT Solutions Pvt Ltd",
+		"website": "https://mojgenie.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://mojgenie.com/contact"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://mojgenie.com/career",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/mojgenieitsolutions/",
+			"instagram": "https://www.instagram.com/mojgenieitsolutions",
+			"facebook": "https://www.facebook.com/mojgenieitsolutions"
+		}
+	},
+	{
 		"name": "Mozilor",
 		"website": "https://www.mozilor.com/",
 		"headquarters": {
@@ -1465,6 +1662,31 @@
 			"x": "https://x.com/mozilor",
 			"instagram": "https://www.instagram.com/mozilorofficial/",
 			"facebook": "https://www.facebook.com/mozilor"
+		}
+	},
+	{
+		"name": "MYM Infotech LLP",
+		"website": "https://myminfotech.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://myminfotech.com/contact"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://myminfotech.com/careers",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/mym-infotech/"
 		}
 	},
 	{
@@ -1548,6 +1770,113 @@
 		}
 	},
 	{
+		"name": "Odox SoftHub LLP",
+		"website": "https://odoxsofthub.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://odoxsofthub.com/"
+			}
+		],
+		"category": ["IT Services"],
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/odoo-erp-implementation-experts-odox-softhub",
+			"x": "https://x.com/Odoxsofthub",
+			"instagram": "https://www.instagram.com/odox_softhub",
+			"facebook": "https://www.facebook.com/odoxsofthubfb",
+			"youtube": "https://www.youtube.com/@odoxsofthubllp"
+		}
+	},
+	{
+		"name": "Ontash India Technoologies Pvt Ltd",
+		"website": "https://ontash.net/in/index",
+		"headquarters": {
+			"city": "Rochelle Park",
+			"state": "New Jersey",
+			"country": "USA"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Kozhikode",
+				"source": "https://ontash.net/in/contact"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://ontash.net/jobs",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/ontash/",
+			"x": "https://x.com/OntashInc",
+			"facebook": "https://www.facebook.com/ontashsystems"
+		}
+	},
+	{
+		"name": "PFactorial Technologies Pvt Ltd",
+		"website": "https://pfactorial.ai/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.linkedin.com/company/pfactorial-technologies-pvt-ltd/about"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://pfactorial.ai/career",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/pfactorial-technologies-pvt-ltd/",
+			"instagram": "https://www.instagram.com/pfactorial_technologies/"
+		}
+	},
+	{
+		"name": "Pixbit Solutions LLP",
+		"website": "https://pixbitsolutions.com/",
+		"headquarters": {
+			"city": "Dubai",
+			"state": "Dubai",
+			"country": "UAE"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://pixbitsolutions.com/about-us#locations"
+			}
+		],
+		"category": ["IT Services", "Software Development"],
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/pixbit-solutions/",
+			"instagram": "https://www.instagram.com/pixbitsolutions",
+			"facebook": "https://www.facebook.com/pixbitsolution"
+		}
+	},
+	{
 		"name": "PlaySpots",
 		"website": "https://www.playspots.in",
 		"headquarters": {
@@ -1600,6 +1929,33 @@
 		"socials": {
 			"linkedin": "https://www.linkedin.com/company/proaimsiot/",
 			"instagram": "https://www.instagram.com/proaims/"
+		}
+	},
+	{
+		"name": "Protected Harbor",
+		"website": "https://protectedharbor.com/",
+		"headquarters": {
+			"city": "New York",
+			"state": "New York",
+			"country": "USA"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://cyberparks.in/companies-at-park/"
+			}
+		],
+		"category": ["Network Security", "IT Services"],
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/protectedharbor/",
+			"x": "https://x.com/protectedharbor",
+			"instagram": "https://www.instagram.com/protectedharbor",
+			"facebook": "https://www.facebook.com/protectedharbor"
 		}
 	},
 	{
@@ -1712,6 +2068,34 @@
 		}
 	},
 	{
+		"name": "Sapling Creations",
+		"website": "https://saplingcreations.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://saplingcreations.com/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://saplingcreations.com/careers/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/sapling-creations",
+			"x": "https://x.com/sapling_creatio",
+			"instagram": "https://www.instagram.com/saplingcreations_",
+			"facebook": "https://www.facebook.com/SaplingCreation/"
+		}
+	},
+	{
 		"name": "Sizcom Digital",
 		"website": "https://www.sizcomdigital.com/",
 		"headquarters": {
@@ -1763,6 +2147,31 @@
 			"x": "https://x.com/Skybookgbl",
 			"instagram": "https://www.instagram.com/skybookglobal",
 			"facebook": "https://www.facebook.com/skybookglobal"
+		}
+	},
+	{
+		"name": "Soxo",
+		"website": "https://soxo.in/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://soxo.in/"
+			}
+		],
+		"category": ["Sofware Development", "IT Services"],
+		"careers": "https://soxo.in/career.html",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/soxo"
 		}
 	},
 	{
@@ -1851,6 +2260,100 @@
 		}
 	},
 	{
+		"name": "Techlogica IT DT Solutions",
+		"website": "http://www.techlogica.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://techlogica.com"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://techlogica.com/join-our-team/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/techlogica-it-dt-solutions/",
+			"instagram": "https://www.instagram.com/techlogicaitdt/",
+			"facebook": "https://www.facebook.com/techlogicaindia"
+		}
+	},
+	{
+		"name": "Technaureus Info Solutions Pvt Ltd",
+		"website": "https://www.technaureus.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.technaureus.com/contact/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://www.technaureus.com/careers/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/technaureus-info-solutions/",
+			"x": "https://x.com/technaureus",
+			"instagram": "https://www.instagram.com/technaureus/",
+			"facebook": "https://www.facebook.com/technaureus/",
+			"youtube": "https://www.youtube.com/channel/UChusfuYvl4Xbf7-RLP5hHFg/"
+		}
+	},
+	{
+		"name": "Technical Xperts Group",
+		"website": "https://txglive.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "HILITE Business Park Phahse II",
+				"source": "https://txglive.com/contact-us/"
+			},
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://txglive.com/contact-us/"
+			}
+		],
+		"category": ["Construction"],
+		"careers": "https://txglive.com/careers/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/technicalxpertsgroup-txg/",
+			"x": "https://x.com/techxpertsgroup",
+			"instagram": "https://www.instagram.com/technicalxpertsgrouptxg",
+			"facebook": "https://www.facebook.com/technicalxpertsgrouptxg/",
+			"youtube": "https://www.youtube.com/@technical-xperts-group_txg"
+		}
+	},
+	{
 		"name": "Techtadd",
 		"website": "https://techtadd.in/",
 		"locations": [
@@ -1872,6 +2375,71 @@
 			"instagram": "https://www.instagram.com/techtaddindia",
 			"facebook": "https://www.facebook.com/Techtaddindia",
 			"youtube": "https://www.youtube.com/@Techtaddindia"
+		}
+	},
+	{
+		"name": "Tigabits Technologies",
+		"website": "http://www.tigabits.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.linkedin.com/company/tigabits-technologies-llp/about"
+			}
+		],
+		"category": ["Software Development", "IT Services"],
+		"careers": "https://tigabits.com/careers",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/tigabits-technologies-llp/",
+			"x": "https://x.com/tigabits",
+			"instagram": "https://www.instagram.com/tigabits/",
+			"facebook": "https://www.facebook.com/tigabitstechnologies",
+			"youtube": "https://www.youtube.com/channel/UCpoBvMoVaJEvLKBjuANudOw"
+		}
+	},
+	{
+		"name": "Times World Media and Technology Solutions Pvt Ltd",
+		"website": "https://www.timesworld.com/",
+		"headquarters": {
+			"city": "Dubai",
+			"state": "Dubai",
+			"country": "UAE"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.timesworld.com/contact"
+			},
+			{
+				"city": "Trivandrum",
+				"district": "Thiruvananthapuram",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Technopark Phase III",
+				"source": "https://www.timesworld.com/contact"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://www.timesworld.com/careers",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/timesworld-technologies/",
+			"instagram": "https://www.instagram.com/timesworld.ig/",
+			"facebook": "https://www.facebook.com/timesworldtech/"
 		}
 	},
 	{
@@ -1927,6 +2495,313 @@
 			"linkedin": "https://www.linkedin.com/company/ul-technology-solution",
 			"x": "https://x.com/ultechnology",
 			"facebook": "https://www.facebook.com/ULTechnologySolutions/"
+		}
+	},
+	{
+		"name": "Veuz Concepts",
+		"website": "http://www.veuzconcepts.com/",
+		"headquarters": {
+			"city": "Jeddah",
+			"state": "Saudi Arabia",
+			"country": "UAE"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.linkedin.com/company/veuzconcepts/about/"
+			},
+			{
+				"city": "Kozhi",
+				"district": "Ernakulam",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Technozone Business Park",
+				"source": "https://www.linkedin.com/company/veuzconcepts/about/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://careers.veuzconcepts.com/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/veuzconcepts/",
+			"x": "https://x.com/VeuzConcepts",
+			"instagram": "https://www.instagram.com/veuzconcepts/",
+			"facebook": "https://www.facebook.com/veuzconcepts/",
+			"youtube": "https://www.youtube.com/@VEUZCONCEPTS/"
+		}
+	},
+	{
+		"name": "Vikn Codes",
+		"website": "https://www.vikncodes.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.vikncodes.com/contact"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://www.vikncodes.com/careers",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/vikncodes",
+			"x": "https://x.com/ViknCodes",
+			"instagram": "https://www.instagram.com/vikncodes/",
+			"facebook": "https://www.facebook.com/vikncodesllp"
+		}
+	},
+	{
+		"name": "Vinam Solutions Pvt Ltd",
+		"website": "http://www.vinam.in/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "HILITE Business Park Kozhikode",
+				"source": "https://www.linkedin.com/company/vinam-solutions-pvt-ltd/about/"
+			},
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.linkedin.com/company/vinam-solutions-pvt-ltd/about/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://www.vinamsolutions.com/career/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/vinam-solutions-pvt-ltd/",
+			"x": "https://x.com/vinamsolutions",
+			"facebook": "https://www.facebook.com/vinamsolutions"
+		}
+	},
+	{
+		"name": "Wattlercorp Cybersecurity Labs LLP",
+		"website": "https://www.wattlecorp.com/",
+		"headquarters": {
+			"city": "Dubai",
+			"state": "Dubai",
+			"country": "UAE"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.wattlecorp.com/in/contact/"
+			},
+			{
+				"city": "Kochi",
+				"district": "Ernakulam",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"source": "https://www.wattlecorp.com/in/contact/"
+			},
+			{
+				"city": "Trivandrum",
+				"district": "Thiruvananthapuram",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"source": "https://www.wattlecorp.com/in/contact/"
+			}
+		],
+		"category": ["IT Services", "Cyber Security"],
+		"careers": "https://www.wattlecorp.com/career/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/wattlecorp/",
+			"x": "https://x.com/wattlecorp",
+			"instagram": "https://www.instagram.com/wattlecorp_/",
+			"facebook": "https://www.facebook.com/wattlecorp",
+			"youtube": "https://www.youtube.com/channel/UCEh7QPWgqktIHMWKmUGgojg"
+		}
+	},
+	{
+		"name": "WelkinWits Technologies LLP",
+		"website": "https://www.welkinwitstech.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.welkinwitstech.com/contact/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://www.welkinwitstech.com/career/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/welkinwits-technologies-llp/",
+			"facebook": "https://www.facebook.com/welkinwits",
+			"youtube": "https://www.youtube.com/@welkinwitstechnologiesllp"
+		}
+	},
+	{
+		"name": "Yarddiant Web Lounge",
+		"website": "https://www.yarddiant.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.yarddiant.com/contact.html"
+			}
+		],
+		"category": ["IT Services"],
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/yarddiant/"
+		}
+	},
+	{
+		"name": "YOUGotaGift",
+		"website": "https://yougotagift.com/",
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.linkedin.com/company/yougotagift-com/"
+			}
+		],
+		"category": ["IT Services"],
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/yougotagift-com/",
+			"instagram": "https://www.instagram.com/yougotagift/",
+			"facebook": "https://www.facebook.com/yougotagift"
+		}
+	},
+	{
+		"name": "Zennode Technologies",
+		"website": "https://zennode.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Kozhikode",
+				"source": "https://zennode.com/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://zennode.com/careers/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/zennode/",
+			"instagram": "https://www.instagram.com/zennode.tech/",
+			"facebook": "https://www.facebook.com/zennode.tech"
+		}
+	},
+	{
+		"name": "Zinfog Codelabs Pvt Ltd",
+		"website": "http://www.zinfog.com/",
+		"headquarters": {
+			"city": "Kozhikode",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.linkedin.com/company/zinfog-codelabs/about/"
+			}
+		],
+		"category": ["IT Services"],
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/zinfog-codelabs/"
+		}
+	},
+	{
+		"name": "Zoondia",
+		"website": "https://www.zoondia.com/",
+		"headquarters": {
+			"city": "Trivandrum",
+			"state": "Kerala",
+			"country": "India"
+		},
+		"locations": [
+			{
+				"city": "Trivandrum",
+				"district": "Thiruvananthapuram",
+				"state": "Kerala",
+				"country": "India",
+				"type": "headquarters",
+				"tech_park": "Technopark Phas II",
+				"source": "https://www.linkedin.com/company/zoondia-software-pvt-ltd/about/"
+			},
+			{
+				"city": "Kozhikode",
+				"district": "Kozhikode",
+				"state": "Kerala",
+				"country": "India",
+				"type": "office",
+				"tech_park": "Cyberpark Kozhikode",
+				"source": "https://www.linkedin.com/company/zoondia-software-pvt-ltd/about/"
+			}
+		],
+		"category": ["IT Services"],
+		"careers": "https://www.zoondia.com/careers/",
+		"socials": {
+			"linkedin": "https://www.linkedin.com/company/zoondia-software-pvt-ltd/",
+			"x": "https://x.com/zoondia",
+			"instagram": "https://www.instagram.com/zoondia/",
+			"facebook": "https://www.facebook.com/zoondia"
 		}
 	}
 ]
